@@ -1,4 +1,4 @@
-## Hi, I'm Dileep Reddy Cheerla 👋
+## Hi, I'm Dileep  Cheerla 👋
 
 Power systems engineer at **GridAxon, Inc.** and graduate researcher at **Texas Tech University**, working on **inverter-based resources (IBRs)**, **electromagnetic transient (EMT) modeling**, and the grid impact of **large AI / data-center loads**.
 
